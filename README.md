@@ -1,4 +1,4 @@
-#Note: In vercel it make some time for loading images because of size
+#Note: In vercel it make some time for loading images because of size.
 ##Preview link:
 https://restaurent-ud31.vercel.app/
 
